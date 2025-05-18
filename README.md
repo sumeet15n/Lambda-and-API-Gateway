@@ -2,7 +2,7 @@
 
 ## Introducing this Project!
 
-In this project, I set up the logic layer of a three-tier web app.
+In this project, I set up the logic tier of a three-tier web app.
 
 ### Services Used
 

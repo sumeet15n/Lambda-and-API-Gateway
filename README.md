@@ -98,7 +98,7 @@ A screenshot of the successfully created API resource is shown below.
 
 ### Step 4: Set up an API method
 
-I created a new API method for my API resource 'users', selected 'GET' as the method type. selected 'Lambda fuction' as the integration type, enabled Lambda proxy integration, and selected the created Lambda function and the same region for Lambda.
+I created a new API method for my API resource 'users', selected 'GET' as the method type. selected 'Lambda function' as the integration type, enabled Lambda proxy integration, and selected the created Lambda function and the same region for Lambda.
 
 A screenshot of the configuration page is shown below.
 
